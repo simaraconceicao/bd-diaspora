@@ -1,74 +1,119 @@
-[
+{ "Acomodacoes":[
     {
-    "id":"",
-    "categoria":"",
-    "titulo":"",
-    "autor":"",
-    "fotos":"",
-    "descricao":"",
-    "preco":"",
-    "tags":"",
-    "data":"",
-    "fim da atividade": "",
-    "local":"",
-    "capacidade": "",
-    "roteiro":"",
-    "inclui":"",
-    "exclui":"",
-    "dificuldade":""
+    "id":"1",
+    "categoria":"Expedição Palmares",
+    "titulo":"Expedição Palmares 2020 1° Edição RJ-Palmares",
+    "autor":"Brafrika",
+    "foto":"https://diaspora.black/wp-content/uploads/2019/12/Design-sem-nome.jpg",
+    "descricao":"Prepare-se para a expedição histórica para Maceió e a Serra da Barriga! Uma viagem para celebrar a memória de um povo e marcar a sua história!
+    Entre os dias 20 a 24 de Março, sairemos de São Paulo e Rio de Janeiro, com destino a Alagoas para viver uma viagem cultural na terra de Zumbi!
+    Vamos visitar pontos turísticos importantes para a história negra da cidade, onde aconteceu a Quebra de Xangô, em 1912. E também curtir as praias paradisíacas, com uma curadoria de lugares de afeto para tornar a jornada ainda mais emocionante!
+    Do aeroporto à visita ao Parque Memorial Quilombo de Palmares, cada passo dessa jornada está sendo pensado para valorizar nossa cultura e reverenciar nossa memória, além de marcar as nossas histórias!",
+    "preco":"R$3.020,00",
+    "tag":"Viagem",
+    "data":"20 de março de 2020, sexta - 00:00",
+    "fim da atividade": "24 de março de 2020, terça - 00:00",
+    "local":"Maceió",
+    "capacidade": "Até 20 pessoas",
+    "roteiro":"Dia 20 de Março - Nos encontramos no aeroporto de Maceió após o seu embarque no aeroporto Santo Dumont. Oportunidade de nos conhecer, conversar sobre nossas histórias até esse momento, e construir laços de afeto! Chegando em Maceió, teremos traslado até o hotel.
+    Dia 21 de Março - O grande dia! Vamos até a Serra da Barriga, guiados por lideranças históricas, para fortalecer o legado do Quilombo de Palmares. O passeio já inclui um almoço especial no restaurante Baobá, e bate-papo com a chef e grande liderança local, Mãe Neide!
+    Dia 22 de Março - Chance de aproveitar o mar e o sol de Paripuera em Maceió! Conhecida como o Caribe Brasileiro, você terá oportunidade de aproveitar a praia e tirar fotos incríveis! Cheias de piscinas naturais, água incrivelmente azul e quentinha, é a oportunidade perfeita para conversar sobre a experiência vivida em Palmares no dia anterior e reforçar a melanina.
+    Dia 23 de Março - Em Maceió, vamos conhecer locais especialmente escolhidos para nossa viagem. Uma curadoria de pontos de afeto e memória da cultura negra. Também é dia de conhecer as belas praias do litoral, com a oportunidade de conhecer bem de perto comunidades tradicionais da região
+    Dia 24 de Março - Mais uma chance de aproveitar o mar e o sol de Maceió! O dia é livre para você curtir do seu jeito. Nós podemos indicar alguns pontos especiais da cidade, mas a praia pertinho do hotel também é uma ótima opção para você renovar o bronzeado! Retornamos a São Paulo no dia 24 a tarde.",
+    "inclui":"Hospedagem, transfer, passeios, aéreo ida e volta, 2 almoços e todos os cafés da manhã.",
+    "exclui":"Refeições não citadas.
+    Gastos pessoais.
+    Acesso ao Beach Park.
+    Acesso as piscinas naturais.
+    Ensaio fotográfico.",
+    "dificuldade":"Leve ( poucas limitações )"
     },
     {
-    "id":"",
-    "categoria":"",
-    "titulo":"",
-    "autor":"",
-    "fotos":"",
-    "descricao":"",
-    "preco":"",
-    "tags":"",
-    "data":"",
-    "fim da atividade": "",
-    "local":"",
-    "capacidade": "",
-    "roteiro":"",
-    "inclui":"",
-    "exclui":"",
-    "dificuldade":""
+    "id":"2",
+    "categoria":"Expedição Palmares",
+    "titulo":"Expedição Palmares 2020 1° Edição RJ-Palmares",
+    "autor":"Brafrika",
+    "foto":"https://diaspora.black/wp-content/uploads/2019/12/Design-sem-nome.jpg",
+    "descricao":"Prepare-se para a expedição histórica para Maceió e a Serra da Barriga! Uma viagem para celebrar a memória de um povo e marcar a sua história!
+    Entre os dias 20 a 24 de Março, sairemos de São Paulo e Rio de Janeiro, com destino a Alagoas para viver uma viagem cultural na terra de Zumbi!
+    Vamos visitar pontos turísticos importantes para a história negra da cidade, onde aconteceu a Quebra de Xangô, em 1912. E também curtir as praias paradisíacas, com uma curadoria de lugares de afeto para tornar a jornada ainda mais emocionante!
+    Do aeroporto à visita ao Parque Memorial Quilombo de Palmares, cada passo dessa jornada está sendo pensado para valorizar nossa cultura e reverenciar nossa memória, além de marcar as nossas histórias!",
+    "preco":"R$3.020,00",
+    "tag":"Viagem",
+    "data":"20 de março de 2020, sexta - 00:00",
+    "fim da atividade": "24 de março de 2020, terça - 00:00",
+    "local":"Maceió",
+    "capacidade": "Até 20 pessoas",
+    "roteiro":"Dia 20 de Março - Nos encontramos no aeroporto de Maceió após o seu embarque no aeroporto Santo Dumont. Oportunidade de nos conhecer, conversar sobre nossas histórias até esse momento, e construir laços de afeto! Chegando em Maceió, teremos traslado até o hotel.
+    Dia 21 de Março - O grande dia! Vamos até a Serra da Barriga, guiados por lideranças históricas, para fortalecer o legado do Quilombo de Palmares. O passeio já inclui um almoço especial no restaurante Baobá, e bate-papo com a chef e grande liderança local, Mãe Neide!
+    Dia 22 de Março - Chance de aproveitar o mar e o sol de Paripuera em Maceió! Conhecida como o Caribe Brasileiro, você terá oportunidade de aproveitar a praia e tirar fotos incríveis! Cheias de piscinas naturais, água incrivelmente azul e quentinha, é a oportunidade perfeita para conversar sobre a experiência vivida em Palmares no dia anterior e reforçar a melanina.
+    Dia 23 de Março - Em Maceió, vamos conhecer locais especialmente escolhidos para nossa viagem. Uma curadoria de pontos de afeto e memória da cultura negra. Também é dia de conhecer as belas praias do litoral, com a oportunidade de conhecer bem de perto comunidades tradicionais da região
+    Dia 24 de Março - Mais uma chance de aproveitar o mar e o sol de Maceió! O dia é livre para você curtir do seu jeito. Nós podemos indicar alguns pontos especiais da cidade, mas a praia pertinho do hotel também é uma ótima opção para você renovar o bronzeado! Retornamos a São Paulo no dia 24 a tarde.",
+    "inclui":"Hospedagem, transfer, passeios, aéreo ida e volta, 2 almoços e todos os cafés da manhã.",
+    "exclui":"Refeições não citadas.
+    Gastos pessoais.
+    Acesso ao Beach Park.
+    Acesso as piscinas naturais.
+    Ensaio fotográfico.",
+    "dificuldade":"Leve ( poucas limitações )"
     },
     {
-    "id":"",
-    "categoria":"",
-    "titulo":"",
-    "autor":"",
-    "fotos":"",
-    "descricao":"",
-    "preco":"",
-    "tags":"",
-    "data":"",
-    "fim da atividade": "",
-    "local":"",
-    "capacidade": "",
-    "roteiro":"",
-    "inclui":"",
-    "exclui":"",
-    "dificuldade":""
+    "id":"3",
+    "categoria":"Expedição Palmares",
+    "titulo":"Expedição Palmares 2020 1° Edição RJ-Palmares",
+    "autor":"Brafrika",
+    "foto":"https://diaspora.black/wp-content/uploads/2019/12/Design-sem-nome.jpg",
+    "descricao":"Prepare-se para a expedição histórica para Maceió e a Serra da Barriga! Uma viagem para celebrar a memória de um povo e marcar a sua história!
+    Entre os dias 20 a 24 de Março, sairemos de São Paulo e Rio de Janeiro, com destino a Alagoas para viver uma viagem cultural na terra de Zumbi!
+    Vamos visitar pontos turísticos importantes para a história negra da cidade, onde aconteceu a Quebra de Xangô, em 1912. E também curtir as praias paradisíacas, com uma curadoria de lugares de afeto para tornar a jornada ainda mais emocionante!
+    Do aeroporto à visita ao Parque Memorial Quilombo de Palmares, cada passo dessa jornada está sendo pensado para valorizar nossa cultura e reverenciar nossa memória, além de marcar as nossas histórias!",
+    "preco":"R$3.020,00",
+    "tag":"Viagem",
+    "data":"20 de março de 2020, sexta - 00:00",
+    "fim da atividade": "24 de março de 2020, terça - 00:00",
+    "local":"Maceió",
+    "capacidade": "Até 20 pessoas",
+    "roteiro":"Dia 20 de Março - Nos encontramos no aeroporto de Maceió após o seu embarque no aeroporto Santo Dumont. Oportunidade de nos conhecer, conversar sobre nossas histórias até esse momento, e construir laços de afeto! Chegando em Maceió, teremos traslado até o hotel.
+    Dia 21 de Março - O grande dia! Vamos até a Serra da Barriga, guiados por lideranças históricas, para fortalecer o legado do Quilombo de Palmares. O passeio já inclui um almoço especial no restaurante Baobá, e bate-papo com a chef e grande liderança local, Mãe Neide!
+    Dia 22 de Março - Chance de aproveitar o mar e o sol de Paripuera em Maceió! Conhecida como o Caribe Brasileiro, você terá oportunidade de aproveitar a praia e tirar fotos incríveis! Cheias de piscinas naturais, água incrivelmente azul e quentinha, é a oportunidade perfeita para conversar sobre a experiência vivida em Palmares no dia anterior e reforçar a melanina.
+    Dia 23 de Março - Em Maceió, vamos conhecer locais especialmente escolhidos para nossa viagem. Uma curadoria de pontos de afeto e memória da cultura negra. Também é dia de conhecer as belas praias do litoral, com a oportunidade de conhecer bem de perto comunidades tradicionais da região
+    Dia 24 de Março - Mais uma chance de aproveitar o mar e o sol de Maceió! O dia é livre para você curtir do seu jeito. Nós podemos indicar alguns pontos especiais da cidade, mas a praia pertinho do hotel também é uma ótima opção para você renovar o bronzeado! Retornamos a São Paulo no dia 24 a tarde.",
+    "inclui":"Hospedagem, transfer, passeios, aéreo ida e volta, 2 almoços e todos os cafés da manhã.",
+    "exclui":"Refeições não citadas.
+    Gastos pessoais.
+    Acesso ao Beach Park.
+    Acesso as piscinas naturais.
+    Ensaio fotográfico.",
+    "dificuldade":"Leve ( poucas limitações )"
     },
     {
-    "id":"",
-    "categoria":"",
-    "titulo":"",
-    "autor":"",
-    "fotos":"",
-    "descricao":"",
-    "preco":"",
-    "tags":"",
-    "data":"",
-    "fim da atividade": "",
-    "local":"",
-    "capacidade": "",
-    "roteiro":"",
-    "inclui":"",
-    "exclui":"",
-    "dificuldade":""
+    "id":"4",
+    "categoria":"Expedição Palmares",
+    "titulo":"Expedição Palmares 2020 1° Edição RJ-Palmares",
+    "autor":"Brafrika",
+    "foto":"https://diaspora.black/wp-content/uploads/2019/12/Design-sem-nome.jpg",
+    "descricao":"Prepare-se para a expedição histórica para Maceió e a Serra da Barriga! Uma viagem para celebrar a memória de um povo e marcar a sua história!
+    Entre os dias 20 a 24 de Março, sairemos de São Paulo e Rio de Janeiro, com destino a Alagoas para viver uma viagem cultural na terra de Zumbi!
+    Vamos visitar pontos turísticos importantes para a história negra da cidade, onde aconteceu a Quebra de Xangô, em 1912. E também curtir as praias paradisíacas, com uma curadoria de lugares de afeto para tornar a jornada ainda mais emocionante!
+    Do aeroporto à visita ao Parque Memorial Quilombo de Palmares, cada passo dessa jornada está sendo pensado para valorizar nossa cultura e reverenciar nossa memória, além de marcar as nossas histórias!",
+    "preco":"R$3.020,00",
+    "tag":"Viagem",
+    "data":"20 de março de 2020, sexta - 00:00",
+    "fim da atividade": "24 de março de 2020, terça - 00:00",
+    "local":"Maceió",
+    "capacidade": "Até 20 pessoas",
+    "roteiro":"Dia 20 de Março - Nos encontramos no aeroporto de Maceió após o seu embarque no aeroporto Santo Dumont. Oportunidade de nos conhecer, conversar sobre nossas histórias até esse momento, e construir laços de afeto! Chegando em Maceió, teremos traslado até o hotel.
+    Dia 21 de Março - O grande dia! Vamos até a Serra da Barriga, guiados por lideranças históricas, para fortalecer o legado do Quilombo de Palmares. O passeio já inclui um almoço especial no restaurante Baobá, e bate-papo com a chef e grande liderança local, Mãe Neide!
+    Dia 22 de Março - Chance de aproveitar o mar e o sol de Paripuera em Maceió! Conhecida como o Caribe Brasileiro, você terá oportunidade de aproveitar a praia e tirar fotos incríveis! Cheias de piscinas naturais, água incrivelmente azul e quentinha, é a oportunidade perfeita para conversar sobre a experiência vivida em Palmares no dia anterior e reforçar a melanina.
+    Dia 23 de Março - Em Maceió, vamos conhecer locais especialmente escolhidos para nossa viagem. Uma curadoria de pontos de afeto e memória da cultura negra. Também é dia de conhecer as belas praias do litoral, com a oportunidade de conhecer bem de perto comunidades tradicionais da região
+    Dia 24 de Março - Mais uma chance de aproveitar o mar e o sol de Maceió! O dia é livre para você curtir do seu jeito. Nós podemos indicar alguns pontos especiais da cidade, mas a praia pertinho do hotel também é uma ótima opção para você renovar o bronzeado! Retornamos a São Paulo no dia 24 a tarde.",
+    "inclui":"Hospedagem, transfer, passeios, aéreo ida e volta, 2 almoços e todos os cafés da manhã.",
+    "exclui":"Refeições não citadas.
+    Gastos pessoais.
+    Acesso ao Beach Park.
+    Acesso as piscinas naturais.
+    Ensaio fotográfico.",
+    "dificuldade":"Leve ( poucas limitações )"
     }
 ]
+}
